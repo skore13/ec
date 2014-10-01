@@ -1,0 +1,36 @@
+A  {
+	text-decoration : none;
+	font-weight : bold;
+	color : Black;
+}
+
+A:Visited  {
+	color : Black;
+	font-weight : bold;
+	text-decoration : none;
+}
+
+A:Active  {
+	text-decoration : none;
+	font-weight : bold;
+	color : Black;
+}
+
+A:Hover  {
+	font-weight : bold;
+	text-decoration : none;
+	background-color : White;
+}
+
+BODY  {
+	font-family : "Arial CE", arial, sans-serif;
+	font-weight : bold;
+	color : Yellow;
+}
+
+TD  {
+	font-family : "Arial CE", arial, sans-serif;
+	font-weight : bold;
+	font-size : 10pt;
+}
+

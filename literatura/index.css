@@ -1,0 +1,40 @@
+A  {
+	color : Blue;
+}
+
+A:Visited  {
+	color : Black;
+}
+
+A:Active  {
+	text-decoration : none;
+	color : Gray;
+}
+
+A:Hover  {
+	text-decoration : none;
+}
+
+BODY  {
+	font-family : "Arial CE", arial, sans-serif;
+	font-size : 10pt;
+	color : Black;
+}
+
+TD  {
+	font-family : "Arial CE", arial, sans-serif;
+	font-size : 10pt;
+	color : Black;
+}
+
+H5  {
+	color : Blue;
+}
+
+H4  {
+	color : Blue;
+}
+
+H2  {
+	color : Blue;
+}

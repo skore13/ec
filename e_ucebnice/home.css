@@ -1,0 +1,27 @@
+A  {
+	color : Black;
+}
+
+A:Visited  {
+	color : Purple;
+}
+
+A:Active  {
+	color : Blue;
+}
+
+A:Hover  {
+	color : Blue;
+}
+
+BODY  {
+	font-family : "Arial CE", arial, sans-serif;
+	color : Purple;
+	font-size : 10pt;
+}
+
+TD  {
+	font-family : "Arial CE", arial, sans-serif;
+	color : Purple;
+	font-size : 10pt;
+}
